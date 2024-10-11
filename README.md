@@ -11,7 +11,7 @@ Paper Presentation Archive
 <br>
 
 ## 논문 발표
-| Date | 논문 | 발표자 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link |
+| Date | 논문 | 발표자 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Link |
 |------|-----|-------------------------------|------|
 | 2024-09-04 | Heo, Jun, et al. "Boss: Bandwidth-optimized search accelerator for storage-class memory." 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA). IEEE, 2021.<br><br> Chen, Haibo, et al. "Microkernel Goes General: Performance and Compatibility in the {HongMeng} Production Microkernel." 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24). 2024. | <nobr>신수환, 김나경</nobr> | [BOSS](./presentations/202409/240904_BOSS.pdf),<br>[Microkernel](./presentations/202409/240904_Hongmeng_Microkernel.pdf) |
 | 2024-09-11 | Chockchowwat, Supawit, Wenjie Liu, and Yongjoo Park. "Airindex: versatile index tuning through data and storage." Proceedings of the ACM on Management of Data 1.3 (2023): 1-26. | <nobr>쥬용지에</nobr> | [AirIndex](./presentations/202409/240911_AirIndex.pdf) |
