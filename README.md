@@ -17,4 +17,6 @@ Paper Presentation Archive
 | 2024-09-11 | Chockchowwat, Supawit, Wenjie Liu, and Yongjoo Park. "Airindex: versatile index tuning through data and storage." Proceedings of the ACM on Management of Data 1.3 (2023): 1-26. | <nobr>쥬용지에</nobr> | [AirIndex](./presentations/202409/240911_AirIndex.pdf) |
 | 2024-09-25 | Wang, Jing, et al. "Revisiting Secondary Indexing in {LSM-based} Storage Systems with Persistent Memory." 2023 USENIX Annual Technical Conference (USENIX ATC 23). 2023. | <nobr>최연규</nobr> | [Secondary-Indexing](./presentations/202409/2409025_Indexing.pdf) |
 | 2024-10-02 | Peng, Li, et al. "{ScalaCache}: Scalable {User-Space} Page Cache Management with {Software-Hardware} Coordination." 2024 USENIX Annual Technical Conference (USENIX ATC 24). 2024. | <nobr>최건희</nobr> | [ScalaCache](./presentations/202410/241002_ScalaCache.pdf) |
+| 2024-10-16 | Zhang, Weidong, et al. "What's the Story in {EBS} Glory: Evolutions and Lessons in Building Cloud Block Store." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. | <nobr>이제연</nobr> | [EBS Glory](./presentations/202410/241002_ScalaCache.pdf) |
+
 
