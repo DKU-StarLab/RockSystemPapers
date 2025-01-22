@@ -1,5 +1,5 @@
-# RockSystemPapers
-Summary of SystemPapers
+# Rock System Papers
+Summary of System Papers
 
 ## Goal
 Paper Presentation Archive
